@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/ademilua/learn/num_island_ada/count_num_island.gpr
+20190612095836
+[BOUND OBJECT FILES]
+/home/ademilua/learn/num_island_ada/obj/queue_fifo.o
+/home/ademilua/learn/num_island_ada/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/ademilua/learn/num_island_ada/obj/
+-L/home/ademilua/learn/num_island_ada/obj/
+-L/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/adalib/
+-static
+-static-libgcc
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/adalib/libgnat.a
+-ldl

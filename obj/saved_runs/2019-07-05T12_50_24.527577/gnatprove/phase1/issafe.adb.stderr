@@ -1,0 +1,5 @@
+issafe.adb:1:14: missing body for "isSafe" declared at issafe.ads:5
+issafe.ads:2:23: "N" is undefined (more references follow)
+issafe.ads:2:27: "M" is undefined (more references follow)
+issafe.ads:5:48: formal parameter "i" cannot be used before end of specification
+issafe.ads:5:63: formal parameter "j" cannot be used before end of specification

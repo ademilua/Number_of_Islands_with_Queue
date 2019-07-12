@@ -1,0 +1,7 @@
+20190705115558
+-c
+-x
+ada
+-gnatA
+-gnatc
+-gnates=/home/ademilua/learn/num_island_ada/obj/gnatprove/85a74aac.tmp

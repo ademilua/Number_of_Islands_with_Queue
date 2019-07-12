@@ -1,0 +1,2 @@
+queue_fifo.adb:1:30: incorrect use of SPARK_Mode
+queue_fifo.adb:1:30: no value was set for SPARK_Mode on "Queue_Fifo" at queue_fifo.ads:8

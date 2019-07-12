@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/home/ademilua/learn/num_island_ada/count_num_island.gpr</vfs_file>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project>/home/ademilua/learn/num_island_ada/count_num_island.gpr</vfs_project>
+      <vfs_file>/home/ademilua/learn/num_island_ada/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 1" >
+      <vfs_project>/home/ademilua/learn/num_island_ada/count_num_island.gpr</vfs_project>
+      <vfs_file>/home/ademilua/learn/num_island_ada/src/queue_fifo.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>/home/ademilua/learn/num_island_ada/count_num_island.gpr</vfs_project>
+      <vfs_file>/home/ademilua/learn/num_island_ada/src/queue_fifo.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 465" >
+      <vfs_project />
+      <vfs_file>/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-textio.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 52" line=" 1304" >
+      <vfs_project />
+      <vfs_file>/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/8.3.1/rts-native/adainclude/a-textio.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

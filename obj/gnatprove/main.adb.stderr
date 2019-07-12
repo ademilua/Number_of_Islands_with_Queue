@@ -1,0 +1,1 @@
+main.adb:57:04: warning: postcondition does not check the outcome of calling "Visit_Island"

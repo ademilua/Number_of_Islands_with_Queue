@@ -1,0 +1,3 @@
+main.adb:30:04: instantiation error at a-cdlili.ads:280
+main.adb:30:04: instantiation error at queue_fifo.ads:11
+main.adb:30:04: subprogram renaming "Finalize" cannot declare primitive for type "List" (SPARK RM 6.1.1(3))
